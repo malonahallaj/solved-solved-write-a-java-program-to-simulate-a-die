@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-write-a-java-program-to-simulate-a-die
+<br>
+Write a Java program to simulate a die. A die has values of either 1, 2, 3, 4, 5 or 6 on the face. You should use the Math.Random() or the java.util.Random() class to generate the values on the die. The program should prompt the user to enter how many times the die should be rolled. The output should show the results of each roll along with the total number of times 1, 2, 3, 4, 5 or 6 occurred for all rolls and the total sum comprised of the sum of all rolls. Here is a sample run:
